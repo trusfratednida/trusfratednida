@@ -1,12 +1,9 @@
-## Hi, I'm Nida
+# Hi there, I'm Nida! 👋  
 
-<!--
-**trusfratednida/trusfratednida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Science and Engineering undergrad** at [BRAC University](https://www.bracu.ac.bd/), Dhaka, Bangladesh. 🚀  
+Exploring the exciting **tech world** with a focus on:  
+- **Cybersecurity 🔒**  
+- **Artificial Intelligence 🤖**  
 
-Here are some ideas to get you started:
-I'm a computer science undergrad exploring the tech world
-Studying computer science & engineering at BRAC University, Dhaka, Bangladesh 
-I am currently learning about cybersecurity and AI
+I’m passionate about learning and building solutions that make a difference. Let’s connect and collaborate! 🌟  
 
-
--->
